@@ -147,7 +147,8 @@ footer{
 .fa {
   font-size:30px;
   padding:10px;
-  margin:10px;
+  margin-left:10px;
+  margin-right:10px;
 }
 #footer p{
     color:white;
